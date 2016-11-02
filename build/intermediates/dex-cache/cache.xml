@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_47a6f5a724a6c61f6bae7a27c3dc154bc3c74ff3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\simaski.simaski-PC\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\pre-dexed\debug\gson-2.7_c9527c312a25846b5168145698acbdc1c59cfe96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_47a6f5a724a6c61f6bae7a27c3dc154bc3c74ff3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\simaski.simaski-PC\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_f129950d0f0833987c55cda598f5689e2737267e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_77c1618b65bd73930841cc3f001e7ee7c449a67c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\simaski.simaski-PC\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_c9527c312a25846b5168145698acbdc1c59cfe96\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\simaski.simaski-PC\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\pre-dexed\debug\okio-1.8.0_f129950d0f0833987c55cda598f5689e2737267e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_77c1618b65bd73930841cc3f001e7ee7c449a67c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_3dd915cd88aac7c9af0c1f924fd972f0976f2669.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\simaski.simaski-PC\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_b408c3a5abee4189369656e8274cdc5fb9633509.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_3dd915cd88aac7c9af0c1f924fd972f0976f2669\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_7cdef0b1fe43c947864ab0b5656a1283d7b96624\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_7cdef0b1fe43c947864ab0b5656a1283d7b96624.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\simaski.simaski-PC\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_b408c3a5abee4189369656e8274cdc5fb9633509\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\simaski.simaski-PC\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_dd76ae38e6b451005ebd9e1a2d17ff23d560f980.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\simaski.simaski-PC\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_dd76ae38e6b451005ebd9e1a2d17ff23d560f980\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_40c2c575ca40d13a6cdb4bc052b000eafda7fcca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_3320bcd5b992e196232d5fccb1fb3ab5b20aa7a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_962f006c04063bee7ce6d5fd7613e4d97deb658e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3d00444e8dcfd6e543cb0e07b9003edf62c78e">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9e06da2d981a75585dda81c38ca9cdf65e624d0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_962f006c04063bee7ce6d5fd7613e4d97deb658e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_3320bcd5b992e196232d5fccb1fb3ab5b20aa7a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_40c2c575ca40d13a6cdb4bc052b000eafda7fcca.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_7c036c8640001075e496f738cabe88e63686272a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.0_67d6f73515ecf1c7c06db02316159e2a291753ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\simaski.simaski-PC\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_e2d9f2fa298f29a6112e7ed8bed310ac477f5f5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.0_67d6f73515ecf1c7c06db02316159e2a291753ad.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\simaski.simaski-PC\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_e2d9f2fa298f29a6112e7ed8bed310ac477f5f5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_c389966b0e6d8882e1cae743acc7834917e8db72.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_c389966b0e6d8882e1cae743acc7834917e8db72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_2ffe86f2c2c16eb68d13f311a079a4ca96b44499\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.0_3e11440804f6aa217628cb8eae39a90ea3295c72\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_7903b1c8f64dde988faf3d6183748baa650e2838.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_6e07133f1d26c038bf2da9d4a6bc67df8e219b12\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_3f8202d5bf832cf1235d30a95c11301422cc48fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_6e07133f1d26c038bf2da9d4a6bc67df8e219b12.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_7903b1c8f64dde988faf3d6183748baa650e2838\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.0_3e11440804f6aa217628cb8eae39a90ea3295c72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_7c036c8640001075e496f738cabe88e63686272a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_3f8202d5bf832cf1235d30a95c11301422cc48fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.0_2ffe86f2c2c16eb68d13f311a079a4ca96b44499.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_599d8faba1cbd6ee27d918cdb8098ec55b51d403.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_47eb7ed37787386cd30bbe925c1225c7db2b7f87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_599d8faba1cbd6ee27d918cdb8098ec55b51d403\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_47eb7ed37787386cd30bbe925c1225c7db2b7f87.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\simaski.simaski-PC\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_d7dfce5b3d177e8d976d28755a8e1bf2136d32db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="675aa12b22ae0922e5a5428baa75b8c9d7d65068">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_86bf59f494fc6a0ab3f1844b96c3b7d6477b709d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\simaski.simaski-PC\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\simaski.simaski-PC\AndroidStudioProjects\InstaRinno\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_d7dfce5b3d177e8d976d28755a8e1bf2136d32db.jar" />
+    </item>
+
+</items>

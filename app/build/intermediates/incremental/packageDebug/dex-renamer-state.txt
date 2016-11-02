@@ -1,0 +1,7 @@
+#Wed Nov 02 00:23:32 CLT 2016
+base.0=C\:\\Users\\simaski.simaski-PC\\AndroidStudioProjects\\InstaRinno\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_86bf59f494fc6a0ab3f1844b96c3b7d6477b709d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\simaski.simaski-PC\\AndroidStudioProjects\\InstaRinno\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9e06da2d981a75585dda81c38ca9cdf65e624d0c\\classes.dex
+base.1=C\:\\Users\\simaski.simaski-PC\\AndroidStudioProjects\\InstaRinno\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9e06da2d981a75585dda81c38ca9cdf65e624d0c
+file.0=C\:\\Users\\simaski.simaski-PC\\AndroidStudioProjects\\InstaRinno\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_86bf59f494fc6a0ab3f1844b96c3b7d6477b709d\\classes.dex
