@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/InstaRinno.iml" filepath="$PROJECT_DIR$/InstaRinno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InstaRinno98.iml" filepath="$PROJECT_DIR$/InstaRinno98.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

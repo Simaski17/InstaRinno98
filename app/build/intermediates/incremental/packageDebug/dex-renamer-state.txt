@@ -1,7 +1,7 @@
-#Wed Nov 02 00:23:32 CLT 2016
-base.0=C\:\\Users\\simaski.simaski-PC\\AndroidStudioProjects\\InstaRinno\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_86bf59f494fc6a0ab3f1844b96c3b7d6477b709d
+#Thu Nov 03 16:39:30 CLT 2016
+base.0=C\:\\Users\\Jimmy Hernandez\\Downloads\\InstaRinno98\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_32239bb500d3bb3ba4e370e8a969c5d4892561b1
 renamed.1=classes.dex
 renamed.0=classes2.dex
-file.1=C\:\\Users\\simaski.simaski-PC\\AndroidStudioProjects\\InstaRinno\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9e06da2d981a75585dda81c38ca9cdf65e624d0c\\classes.dex
-base.1=C\:\\Users\\simaski.simaski-PC\\AndroidStudioProjects\\InstaRinno\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9e06da2d981a75585dda81c38ca9cdf65e624d0c
-file.0=C\:\\Users\\simaski.simaski-PC\\AndroidStudioProjects\\InstaRinno\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_86bf59f494fc6a0ab3f1844b96c3b7d6477b709d\\classes.dex
+file.1=C\:\\Users\\Jimmy Hernandez\\Downloads\\InstaRinno98\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_484ef7d64cd9844e18b4840da828fdf18582eb30\\classes.dex
+base.1=C\:\\Users\\Jimmy Hernandez\\Downloads\\InstaRinno98\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_484ef7d64cd9844e18b4840da828fdf18582eb30
+file.0=C\:\\Users\\Jimmy Hernandez\\Downloads\\InstaRinno98\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_32239bb500d3bb3ba4e370e8a969c5d4892561b1\\classes.dex
