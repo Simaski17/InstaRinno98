@@ -1,4 +1,4 @@
-#Thu Nov 03 16:39:30 CLT 2016
+#Fri Nov 04 12:00:20 CLT 2016
 base.0=C\:\\Users\\Jimmy Hernandez\\Downloads\\InstaRinno98\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_32239bb500d3bb3ba4e370e8a969c5d4892561b1
 renamed.1=classes.dex
 renamed.0=classes2.dex

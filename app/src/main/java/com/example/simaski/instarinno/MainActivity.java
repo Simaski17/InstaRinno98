@@ -21,6 +21,7 @@ public class MainActivity extends Activity implements AuthenticationListener {
     AuthenticationDialog dialog;
     EditText mText;
     String mAuthToken;
+    String mId;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -47,8 +48,13 @@ public class MainActivity extends Activity implements AuthenticationListener {
 
                 if (response.isSuccessful()) {
                     mAuthToken = response.body().getAccess_token();
+                    mId = response.body().getUser().getId();
+
+
+
                     Intent intent = new Intent(MainActivity.this, SearchActivity.class);
                     intent.putExtra("AUTH_TOKEN", mAuthToken);
+                    intent.putExtra("USER_ID", mId);
                     startActivity(intent);
 
                 } else {

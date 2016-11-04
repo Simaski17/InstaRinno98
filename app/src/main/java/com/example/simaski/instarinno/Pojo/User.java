@@ -1,59 +1,96 @@
+
 package com.example.simaski.instarinno.Pojo;
-/**
- * Created by Administrator on 2/22/2016.
- */
+
+import javax.annotation.Generated;
+import com.google.gson.annotations.Expose;
+import com.google.gson.annotations.SerializedName;
+
+@Generated("org.jsonschema2pojo")
 public class User {
-    private String id;
 
-    private String profile_picture;
-
+    @SerializedName("username")
+    @Expose
     private String username;
+    @SerializedName("profile_picture")
+    @Expose
+    private String profilePicture;
+    @SerializedName("id")
+    @Expose
+    private String id;
+    @SerializedName("full_name")
+    @Expose
+    private String fullName;
 
-    private String full_name;
-
-    public String getId ()
-    {
-        return id;
-    }
-
-    public void setId (String id)
-    {
-        this.id = id;
-    }
-
-    public String getProfile_picture ()
-    {
-        return profile_picture;
-    }
-
-    public void setProfile_picture (String profile_picture)
-    {
-        this.profile_picture = profile_picture;
-    }
-
-    public String getUsername ()
-    {
+    /**
+     * 
+     * @return
+     *     The username
+     */
+    public String getUsername() {
         return username;
     }
 
-    public void setUsername (String username)
-    {
+    /**
+     * 
+     * @param username
+     *     The username
+     */
+    public void setUsername(String username) {
         this.username = username;
     }
 
-    public String getFull_name ()
-    {
-        return full_name;
+    /**
+     * 
+     * @return
+     *     The profilePicture
+     */
+    public String getProfilePicture() {
+        return profilePicture;
     }
 
-    public void setFull_name (String full_name)
-    {
-        this.full_name = full_name;
+    /**
+     * 
+     * @param profilePicture
+     *     The profile_picture
+     */
+    public void setProfilePicture(String profilePicture) {
+        this.profilePicture = profilePicture;
     }
 
-    @Override
-    public String toString()
-    {
-        return "ClassPojo [id = "+id+", profile_picture = "+profile_picture+", username = "+username+", full_name = "+full_name+"]";
+    /**
+     * 
+     * @return
+     *     The id
+     */
+    public String getId() {
+        return id;
     }
+
+    /**
+     * 
+     * @param id
+     *     The id
+     */
+    public void setId(String id) {
+        this.id = id;
+    }
+
+    /**
+     * 
+     * @return
+     *     The fullName
+     */
+    public String getFullName() {
+        return fullName;
+    }
+
+    /**
+     * 
+     * @param fullName
+     *     The full_name
+     */
+    public void setFullName(String fullName) {
+        this.fullName = fullName;
+    }
+
 }

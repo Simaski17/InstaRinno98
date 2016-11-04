@@ -1,23 +1,22 @@
 package com.example.simaski.instarinno;
 
 import android.content.Intent;
-import android.graphics.Picture;
 import android.os.Bundle;
+import android.os.Handler;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.view.View;
+import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.example.simaski.instarinno.Pojo.Datum;
+import com.bumptech.glide.Glide;
 import com.example.simaski.instarinno.Pojo.Example;
-import com.example.simaski.instarinno.Pojo.StandardResolution;
 import com.example.simaski.instarinno.Services.ServiceGenerator;
 
 
-import java.util.ArrayList;
 import java.util.List;
 
 import retrofit2.Call;
@@ -27,10 +26,13 @@ import retrofit2.Response;
 public class SearchActivity extends AppCompatActivity {
 
     String mAuthToken;
-    TextView tvToken;
-    List<StandardResolution> mPictures;
-    private String mMaxId, mMinId;
+    String mId;
+    int j= 0;
+    private TextView textUser;
+    private ImageView imgUser;
+    private final int SPLASH_TIME = 5000;
     public static final String TAG = "INSTA";
+    public String[] hola = {"a","b","c","d"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -48,28 +50,42 @@ public class SearchActivity extends AppCompatActivity {
             }
         });
 
-        tvToken = (TextView) findViewById(R.id.tvToken);
+        textUser = (TextView) findViewById(R.id.textUser);
+        imgUser = (ImageView) findViewById(R.id.imgUser);
+
 
         Intent intent = getIntent();
         mAuthToken = intent.getStringExtra("AUTH_TOKEN");
-        tvToken.setText(mAuthToken);
-        getTagResults("nba","","");
+        mId = intent.getStringExtra("USER_ID");
+        //tvToken.setText(mAuthToken);
+        //getTagResults();
         Log.d(TAG, "TOKEN: " + mAuthToken);
+        Log.d(TAG, "USER ID: " + mId);
+
+
+        tiempo();
+
 
     }
 
 
-    private void getTagResults(String query, String minId, String maxId) {
-       Call<Example> call = ServiceGenerator.createTokenService().getResponse(query, mAuthToken, minId, maxId);
+    private void getTagResults() {
+       Call<Example> call = ServiceGenerator.createTokenService().getResponse(mAuthToken);
         call.enqueue(new Callback<Example>() {
             @Override
             public void onResponse(Call<Example> call, Response<Example> response) {
                 if (response.isSuccessful()) {
-                    Example example = response.body();
-                    //Datum dt = (Datum) response.body().getData();
-                    //String hola = ((Datum) response.body().getData()).getImages().getStandardResolution().getUrl();
-                    //List<Datum> data = example.getData();
-                    //Log.d(TAG, "RESPUESTA 3: " + hola);
+
+                    final Example example = response.body();
+
+                                String text = example.getData().get(j).getCaption().getText();
+                                textUser.setText(text);
+
+
+                                String url = example.getData().get(j).getImages().getStandardResolution().getUrl();
+                                Glide.with(SearchActivity.this).load(url).centerCrop().into(imgUser);
+
+                    Log.d(TAG, "RESPUESTA 3: " + response.body().getData().get(0).getImages().getStandardResolution().getUrl());
 
                 }else{
                     Log.d(TAG, "RESPUESTA 2: ");
@@ -82,6 +98,24 @@ public class SearchActivity extends AppCompatActivity {
             }
         });
 
+    }
+
+    public void tiempo(){
+        new Handler().postDelayed(new Runnable() {
+            @Override
+            public void run() {
+                if(j < 4) {
+                    getTagResults();
+                    j++;
+                    if(j == 4){
+                        j = 0;
+                    }
+                }
+                Log.d(TAG, "RESPUESTA 20: " + j);
+                tiempo();
+
+            }
+        }, SPLASH_TIME);
     }
 
 }

@@ -3,6 +3,96 @@
 
     <item
         is-multidex="true"
+        jar="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_ec0de577916fcf95fed0d7c1ba15ee92d27db149\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jimmy Hernandez\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_0e85f6f65159a72248ec83b9a66135887ef0ad27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_2ed52fab4831023851c532ea1d1903808f038069\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jimmy Hernandez\.gradle\caches\modules-2\files-2.1\org.glassfish\javax.annotation\10.0-b28\30eb3b3cc9cb0863a4edaea5a7575f8ace1b96ba\javax.annotation-10.0-b28.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="30eb3b3cc9cb0863a4edaea5a7575f8ace1b96ba">
+        <dex dex="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\transforms\dex\debug\folders\1000\10\javax.annotation-10.0-b28_93f262465c049462cc6268e4d5ae10cb8aade74c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jimmy Hernandez\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_b7112eb9c086ebf05897c3a3534534bcf49866b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bfdd6be56a6b49634bb39ff7071946122bb0c9b4">
+        <dex dex="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_32239bb500d3bb3ba4e370e8a969c5d4892561b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="256580cb04540157cdb156760e58f44d20d24bbd">
+        <dex dex="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_484ef7d64cd9844e18b4840da828fdf18582eb30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jimmy Hernandez\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_ecf069d9d29644ffccbe339c47c173ee0619d3ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_880e148e9b913194702f6285b2769692c9ed63e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jimmy Hernandez\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_f4cc33c02c91a121879265648700fe32058b8642\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
         jumboMode="true"
         optimize="true"
@@ -27,15 +117,6 @@
         revision="25.0.0"
         sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
         <dex dex="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_f4aa916c56a788e359419b29ded24647c7a88c22\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
-        <dex dex="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_ec0de577916fcf95fed0d7c1ba15ee92d27db149\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -66,30 +147,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Jimmy Hernandez\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
-        <dex dex="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_0e85f6f65159a72248ec83b9a66135887ef0ad27\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
         <dex dex="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_c0c7af2a3df9a27ba8d3221c119569c456df7a5e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="26674000177e45447a0326a6ad84612761199a13">
-        <dex dex="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_2ed52fab4831023851c532ea1d1903808f038069\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -138,39 +201,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Jimmy Hernandez\.gradle\caches\modules-2\files-2.1\org.glassfish\javax.annotation\10.0-b28\30eb3b3cc9cb0863a4edaea5a7575f8ace1b96ba\javax.annotation-10.0-b28.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="30eb3b3cc9cb0863a4edaea5a7575f8ace1b96ba">
-        <dex dex="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\transforms\dex\debug\folders\1000\10\javax.annotation-10.0-b28_93f262465c049462cc6268e4d5ae10cb8aade74c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\Jimmy Hernandez\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
         <dex dex="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_78a120e20502d99da8a81a6366d7acfff1fa7030\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Jimmy Hernandez\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
-        <dex dex="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_b7112eb9c086ebf05897c3a3534534bcf49866b5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="7835116b0661f3b1eaa475cc99cdbd6b4d2c52e4">
-        <dex dex="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_32239bb500d3bb3ba4e370e8a969c5d4892561b1\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -192,39 +228,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="613a4a06295bc4c914b17c20f4b2bccf82039c6a">
-        <dex dex="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_484ef7d64cd9844e18b4840da828fdf18582eb30\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Jimmy Hernandez\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
-        <dex dex="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_ecf069d9d29644ffccbe339c47c173ee0619d3ae\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
-        <dex dex="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_880e148e9b913194702f6285b2769692c9ed63e8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Jimmy Hernandez\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
-        <dex dex="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_f4cc33c02c91a121879265648700fe32058b8642\classes.dex" />
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_c78632ca9b11ae0fa46afb45c2430cc594261264\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -234,15 +243,6 @@
         revision="25.0.0"
         sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
         <dex dex="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_5588f063fea5f7123b0a802541d680742502959b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
-        <dex dex="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_c78632ca9b11ae0fa46afb45c2430cc594261264\classes.dex" />
     </item>
 
 </items>

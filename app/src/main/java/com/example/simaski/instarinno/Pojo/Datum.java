@@ -10,101 +10,68 @@ import com.google.gson.annotations.SerializedName;
 @Generated("org.jsonschema2pojo")
 public class Datum {
 
-    @SerializedName("type")
+    @SerializedName("attribution")
     @Expose
-    private String type;
-    @SerializedName("users_in_photo")
-    @Expose
-    private List<Object> usersInPhoto = new ArrayList<Object>();
-    @SerializedName("filter")
-    @Expose
-    private String filter;
+    private Object attribution;
     @SerializedName("tags")
     @Expose
     private List<String> tags = new ArrayList<String>();
-    @SerializedName("comments")
+    @SerializedName("type")
     @Expose
-    private Comments comments;
-    @SerializedName("caption")
-    @Expose
-    private Caption caption;
-    @SerializedName("likes")
-    @Expose
-    private Likes likes;
-    @SerializedName("link")
-    @Expose
-    private String link;
-    @SerializedName("user")
-    @Expose
-    private User user;
-    @SerializedName("created_time")
-    @Expose
-    private String createdTime;
-    @SerializedName("images")
-    @Expose
-    private Images images;
-    @SerializedName("id")
-    @Expose
-    private String id;
+    private String type;
     @SerializedName("location")
     @Expose
     private Object location;
-    @SerializedName("videos")
+    @SerializedName("comments")
     @Expose
-    private Videos videos;
+    private Comments comments;
+    @SerializedName("filter")
+    @Expose
+    private String filter;
+    @SerializedName("created_time")
+    @Expose
+    private String createdTime;
+    @SerializedName("link")
+    @Expose
+    private String link;
+    @SerializedName("likes")
+    @Expose
+    private Likes likes;
+    @SerializedName("images")
+    @Expose
+    private Images images;
+    @SerializedName("users_in_photo")
+    @Expose
+    private List<Object> usersInPhoto = new ArrayList<Object>();
+    @SerializedName("caption")
+    @Expose
+    private Caption caption;
+    @SerializedName("user_has_liked")
+    @Expose
+    private Boolean userHasLiked;
+    @SerializedName("id")
+    @Expose
+    private String id;
+    @SerializedName("user")
+    @Expose
+    private User user;
 
     /**
      * 
      * @return
-     *     The type
+     *     The attribution
      */
-    public String getType() {
-        return type;
+    public Object getAttribution() {
+        return attribution;
     }
 
     /**
      * 
-     * @param type
-     *     The type
+     * @param attribution
+     *     The attribution
      */
-    public void setType(String type) {
-        this.type = type;
-    }
-
-    /**
-     * 
-     * @return
-     *     The usersInPhoto
-     */
-    public List<Object> getUsersInPhoto() {
-        return usersInPhoto;
-    }
-
-    /**
-     * 
-     * @param usersInPhoto
-     *     The users_in_photo
-     */
-    public void setUsersInPhoto(List<Object> usersInPhoto) {
-        this.usersInPhoto = usersInPhoto;
-    }
-
-    /**
-     * 
-     * @return
-     *     The filter
-     */
-    public String getFilter() {
-        return filter;
-    }
-
-    /**
-     * 
-     * @param filter
-     *     The filter
-     */
-    public void setFilter(String filter) {
-        this.filter = filter;
+    public void setAttribution(Object attribution) {
+        this.attribution = attribution;
     }
 
     /**
@@ -128,145 +95,19 @@ public class Datum {
     /**
      * 
      * @return
-     *     The comments
+     *     The type
      */
-    public Comments getComments() {
-        return comments;
+    public String getType() {
+        return type;
     }
 
     /**
      * 
-     * @param comments
-     *     The comments
+     * @param type
+     *     The type
      */
-    public void setComments(Comments comments) {
-        this.comments = comments;
-    }
-
-    /**
-     * 
-     * @return
-     *     The caption
-     */
-    public Caption getCaption() {
-        return caption;
-    }
-
-    /**
-     * 
-     * @param caption
-     *     The caption
-     */
-    public void setCaption(Caption caption) {
-        this.caption = caption;
-    }
-
-    /**
-     * 
-     * @return
-     *     The likes
-     */
-    public Likes getLikes() {
-        return likes;
-    }
-
-    /**
-     * 
-     * @param likes
-     *     The likes
-     */
-    public void setLikes(Likes likes) {
-        this.likes = likes;
-    }
-
-    /**
-     * 
-     * @return
-     *     The link
-     */
-    public String getLink() {
-        return link;
-    }
-
-    /**
-     * 
-     * @param link
-     *     The link
-     */
-    public void setLink(String link) {
-        this.link = link;
-    }
-
-    /**
-     * 
-     * @return
-     *     The user
-     */
-    public User getUser() {
-        return user;
-    }
-
-    /**
-     * 
-     * @param user
-     *     The user
-     */
-    public void setUser(User user) {
-        this.user = user;
-    }
-
-    /**
-     * 
-     * @return
-     *     The createdTime
-     */
-    public String getCreatedTime() {
-        return createdTime;
-    }
-
-    /**
-     * 
-     * @param createdTime
-     *     The created_time
-     */
-    public void setCreatedTime(String createdTime) {
-        this.createdTime = createdTime;
-    }
-
-    /**
-     * 
-     * @return
-     *     The images
-     */
-    public Images getImages() {
-        return images;
-    }
-
-    /**
-     * 
-     * @param images
-     *     The images
-     */
-    public void setImages(Images images) {
-        this.images = images;
-    }
-
-    /**
-     * 
-     * @return
-     *     The id
-     */
-    public String getId() {
-        return id;
-    }
-
-    /**
-     * 
-     * @param id
-     *     The id
-     */
-    public void setId(String id) {
-        this.id = id;
+    public void setType(String type) {
+        this.type = type;
     }
 
     /**
@@ -290,19 +131,199 @@ public class Datum {
     /**
      * 
      * @return
-     *     The videos
+     *     The comments
      */
-    public Videos getVideos() {
-        return videos;
+    public Comments getComments() {
+        return comments;
     }
 
     /**
      * 
-     * @param videos
-     *     The videos
+     * @param comments
+     *     The comments
      */
-    public void setVideos(Videos videos) {
-        this.videos = videos;
+    public void setComments(Comments comments) {
+        this.comments = comments;
+    }
+
+    /**
+     * 
+     * @return
+     *     The filter
+     */
+    public String getFilter() {
+        return filter;
+    }
+
+    /**
+     * 
+     * @param filter
+     *     The filter
+     */
+    public void setFilter(String filter) {
+        this.filter = filter;
+    }
+
+    /**
+     * 
+     * @return
+     *     The createdTime
+     */
+    public String getCreatedTime() {
+        return createdTime;
+    }
+
+    /**
+     * 
+     * @param createdTime
+     *     The created_time
+     */
+    public void setCreatedTime(String createdTime) {
+        this.createdTime = createdTime;
+    }
+
+    /**
+     * 
+     * @return
+     *     The link
+     */
+    public String getLink() {
+        return link;
+    }
+
+    /**
+     * 
+     * @param link
+     *     The link
+     */
+    public void setLink(String link) {
+        this.link = link;
+    }
+
+    /**
+     * 
+     * @return
+     *     The likes
+     */
+    public Likes getLikes() {
+        return likes;
+    }
+
+    /**
+     * 
+     * @param likes
+     *     The likes
+     */
+    public void setLikes(Likes likes) {
+        this.likes = likes;
+    }
+
+    /**
+     * 
+     * @return
+     *     The images
+     */
+    public Images getImages() {
+        return images;
+    }
+
+    /**
+     * 
+     * @param images
+     *     The images
+     */
+    public void setImages(Images images) {
+        this.images = images;
+    }
+
+    /**
+     * 
+     * @return
+     *     The usersInPhoto
+     */
+    public List<Object> getUsersInPhoto() {
+        return usersInPhoto;
+    }
+
+    /**
+     * 
+     * @param usersInPhoto
+     *     The users_in_photo
+     */
+    public void setUsersInPhoto(List<Object> usersInPhoto) {
+        this.usersInPhoto = usersInPhoto;
+    }
+
+    /**
+     * 
+     * @return
+     *     The caption
+     */
+    public Caption getCaption() {
+        return caption;
+    }
+
+    /**
+     * 
+     * @param caption
+     *     The caption
+     */
+    public void setCaption(Caption caption) {
+        this.caption = caption;
+    }
+
+    /**
+     * 
+     * @return
+     *     The userHasLiked
+     */
+    public Boolean getUserHasLiked() {
+        return userHasLiked;
+    }
+
+    /**
+     * 
+     * @param userHasLiked
+     *     The user_has_liked
+     */
+    public void setUserHasLiked(Boolean userHasLiked) {
+        this.userHasLiked = userHasLiked;
+    }
+
+    /**
+     * 
+     * @return
+     *     The id
+     */
+    public String getId() {
+        return id;
+    }
+
+    /**
+     * 
+     * @param id
+     *     The id
+     */
+    public void setId(String id) {
+        this.id = id;
+    }
+
+    /**
+     * 
+     * @return
+     *     The user
+     */
+    public User getUser() {
+        return user;
+    }
+
+    /**
+     * 
+     * @param user
+     *     The user
+     */
+    public void setUser(User user) {
+        this.user = user;
     }
 
 }

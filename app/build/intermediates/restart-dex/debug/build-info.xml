@@ -5,64 +5,33 @@
     density="hdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="9290418270228"
+    timestamp="10718119571804"
     token="-7625072783760857720"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="300" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="25" />
+        duration="0" />
     <task
         name="verifier"
-        duration="2" />
+        duration="0" />
 
     <artifact
-        location="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
-        type="DEX" />
+        location="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="1214484340161"
+        timestamp="10718119571804"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="2808311593593"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\transforms\dex\debug\folders\1000\10\javax.annotation-10.0-b28_93f262465c049462cc6268e4d5ae10cb8aade74c\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_ecf069d9d29644ffccbe339c47c173ee0619d3ae\classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="5460162065493"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="8640498532271"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="9290418270228"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
-            type="DEX" />
     </build>
 
 </instant-run>
