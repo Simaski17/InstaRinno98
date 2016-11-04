@@ -5,7 +5,7 @@
     density="hdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="10718119571804"
+    timestamp="22634858350025"
     token="-7625072783760857720"
     verifier="FULL_BUILD_REQUESTED" >
 
@@ -27,7 +27,7 @@
         type="MAIN" />
 
     <build
-        timestamp="10718119571804"
+        timestamp="22634858350025"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\Jimmy Hernandez\Downloads\InstaRinno98\app\build\outputs\apk\app-debug.apk"
